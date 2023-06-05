@@ -26,7 +26,7 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 * Intern at PT. FCOM Inti Teknologi (Sep 2022 - Dec 2022)
     - In this company I have a role as a junior IT support. There I was given jobs such as configuring Mikrotik Routers, helping solve problems that exist on clients, maintaining client systems, and many more.
 
-If you are interested in me and want to get to know me better, please check my social media below
+If you are interested in me and want to get to know me better, please check my social media below or you can check my CV <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.
 
 
 ---
