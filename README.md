@@ -54,15 +54,15 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 
 ## Popular Projects
 <a href="https://github.com/adrhmdlz/itnsa-lks-kotang">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=onedark" />
-</a>  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang" />
+</a>
 <a href="https://github.com/adrhmdlz/km-gpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp" />
 </a> 
 
 <br>
 
-If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.
+<p>If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.<p>
 
 ---
 
