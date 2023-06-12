@@ -15,7 +15,7 @@
 
 I'm always trying to grow and learn something new. I hope all the projects that I have made are useful for all of you. -->
 
-<h2>Skill <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width = 32px></img></h2>
+<h2>Skill <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width=15px></img></h2>
 <a href="https://python.org">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 </a>
