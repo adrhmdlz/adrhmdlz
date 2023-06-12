@@ -9,6 +9,7 @@
 - 👦 18 years old Network & Tech Enthusiast from Banten, Indonesia
 - 💼 Currently focusing on Network Engineering
 - 💬 Feel free to talk and discuss with me about Programming or Networking
+- 😉 If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.
 - 😎 And also don't forget to check my website <a href="https://adrhmdlz.github.io">here</a>.
 
 <!-- I'm Adrian Ahmad Al Zidan! I'm 18 years old Network & IT Enthusiast from Banten, Indonesia. Currently focusing on Networking Engineering, besides that I'm also working on several projects using the Python language. I also sometimes take the time to develop my own website which you can check <a href="https://adrhmdlz.github.io">here</a>.
@@ -54,15 +55,13 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 
 ## Popular Projects
 <a href="https://github.com/adrhmdlz/itnsa-lks-kotang">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=transparent" />
 </a>
+
+
 <a href="https://github.com/adrhmdlz/km-gpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp&theme=transparent" />
 </a> 
-
-<br>
-
-<p>If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.<p>
 
 ---
 
