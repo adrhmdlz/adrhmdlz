@@ -1,7 +1,7 @@
-<a href="https://github.com/adrhmdlz/adrhmdlz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adrhmdlz/adrhmdlz?label=profile%20updated&style=flat-square"></a>
+<a href="https://github.com/adrhmdlz/adrhmdlz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adrhmdlz/adrhmdlz?label=profile%20updated&style=flat-square"></a> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></img>
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adhmdlzdn.adhmdlzdn)
 -->
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></img>
+
 
 <h1>Hello Coder! <img src="assets/wave.gif" width=30px></img></h1>
 
@@ -60,7 +60,7 @@ I'm always trying to grow and learn something new. I hope all the projects that 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp&theme=onedark" />
 </a> 
 
-<br>
+<br><br>
 
 If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.
 
