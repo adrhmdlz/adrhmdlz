@@ -15,7 +15,7 @@
 
 I'm always trying to grow and learn something new. I hope all the projects that I have made are useful for all of you. -->
 
-<h2>Skill <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width=15px></img></h2>
+<h2>Skill</h2>
 <a href="https://python.org">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 </a>
@@ -26,12 +26,6 @@ I'm always trying to grow and learn something new. I hope all the projects that 
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 </a>
 <a href="https://python.org">
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
-</a>
-<a href="https://python.org">
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-</a>
-<a href="https://python.org">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img>
 </a>
 <a href="https://python.org">
@@ -40,8 +34,14 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 <a href="https://python.org">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
 </a>
+<a href="https://python.org">
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
+</a>
+<a href="https://python.org">
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+</a>
 
-## My Experience
+## Experience 💼
 * Intern at PT. Jaya Konsultan Indonesia (Feb 2022 - Apr 2022)
     - At this company I learned to make a website with the help of the Mobirise application. In this company I have also learned about the basic configuration of Mikrotik Routers, such as Wifi Routers, Hotspots, and others.
 * Intern at PT. FCOM Inti Teknologi (Sep 2022 - Dec 2022)
@@ -49,6 +49,18 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 
 If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.
 
+
+## Popular Projects
+<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=onedark" />
+</a>  
+
+
+<a href="https://github.com/aastha12/Loan_Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp&theme=onedark" />
+</a> 
 
 ---
 
