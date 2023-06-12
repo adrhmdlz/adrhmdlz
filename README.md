@@ -55,7 +55,7 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 
 ## Popular Projects
 <a href="https://github.com/adrhmdlz/itnsa-lks-kotang">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=transparent" />
 </a>
 
 
