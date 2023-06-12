@@ -2,23 +2,32 @@
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adhmdlzdn.adhmdlzdn)
 -->
 
-# Hey! 👋 
+<h1>Hello Coder! <img src="assets/wave.gif" width=30px></img></h1>
 
-I'm Adrian Ahmad Al Zidan! I'm 18 years old Network & IT Enthusiast from Banten, Indonesia. Currently focusing on Networking Engineering, besides that I'm also working on several projects using the Python language. I also sometimes take the time to develop my own website which you can check <a href="https://adrhmdlz.github.io">here</a>.
+- 👋 Hi, I'm Adrian Ahmad Al Zidan
+- 👦 18 years old Network & Tech Enthusiast from Banten, Indonesia
+- 💼 Currently focusing on Network Engineering
+- 💬 Feel free to talk and discuss with me about Programming or Networking
+
+<!-- I'm Adrian Ahmad Al Zidan! I'm 18 years old Network & IT Enthusiast from Banten, Indonesia. Currently focusing on Networking Engineering, besides that I'm also working on several projects using the Python language. I also sometimes take the time to develop my own website which you can check <a href="https://adrhmdlz.github.io">here</a>.
 
 > Never give up and keep working!!
 
-I'm always trying to grow and learn something new. I hope all the projects that I have made are useful for all of you.
+I'm always trying to grow and learn something new. I hope all the projects that I have made are useful for all of you. -->
 
-## My Skill 
-* Programming
-    - Basic Python Programming
-    - Basic Web Development (HTML, CSS, JS)
-* Computer Networking
-    - Basic Linux Server Configuration
-    - Basic Mikrotik Router Configuration
-    - Basic Computer Installation
-    - Computer Maintanance
+<h2>Skill <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width = 32px></img></h2>
+<a href="https://python.org">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
+</a>
+<a href="https://python.org">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img>
+</a>
+<a href="https://python.org">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
+</a>
+<a href="https://python.org">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+</a>
 
 ## My Experience
 * Intern at PT. Jaya Konsultan Indonesia (Feb 2022 - Apr 2022)
