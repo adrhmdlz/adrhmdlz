@@ -77,9 +77,6 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 <a href="https://github.com/adrhmdlz/python-basic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=python-basic&theme=transparent" />
 </a>
-
-<br><br>
-
 <a href="https://github.com/adrhmdlz/km-gpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp&theme=transparent" />
 </a> 
