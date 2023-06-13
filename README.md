@@ -45,16 +45,16 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 <a href="https://www.debian.org/index.id.html">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img>
 </a>
-<a href="https://www.debian.org/index.id.html">
+<a href="https://www.kali.org/">
     <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></img>
 </a>
-<a href="https://www.debian.org/index.id.html">
+<a href="https://linuxmint.com/">
     <img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></img>
 </a>
-<a href="https://www.debian.org/index.id.html">
+<a href="https://manjaro.org/">
     <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></img>
 </a>
-<a href="https://www.debian.org/index.id.html">
+<a href="https://ubuntu.com/download">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
 </a>
 <a href="https://www.linux.org/">
