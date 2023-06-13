@@ -46,8 +46,7 @@ I'm always trying to grow and learn something new. I hope all the projects that 
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img>
 </a>
 <a href="https://www.debian.org/index.id.html">
-    <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
-"></img>
+    <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></img>
 </a>
 <a href="https://www.debian.org/index.id.html">
     <img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></img>
@@ -75,11 +74,17 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 <a href="https://github.com/adrhmdlz/itnsa-lks-kotang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=transparent" />
 </a>
+<a href="https://github.com/adrhmdlz/python-basic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=python-basic&theme=transparent" />
+</a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/adrhmdlz/km-gpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp&theme=transparent" />
+</a> 
+<a href="https://github.com/adrhmdlz/webdev-basic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=webdev-basic&theme=transparent" />
 </a> 
 
 ---
