@@ -1,9 +1,9 @@
-<a href="https://github.com/adrhmdlz/adrhmdlz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adrhmdlz/adrhmdlz?label=profile%20updated&style=flat-square"></a> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></img>
+<a href="https://github.com/adrhmdlz/adrhmdlz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adrhmdlz/adrhmdlz?label=profile%20updated"></a> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></img>
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adhmdlzdn.adhmdlzdn)
 -->
 
 
-<h1>Hello Coder! <img src="assets/wave.gif" width=30px></img></h1>
+<h1>Hello There! <img src="assets/wave.gif" width=30px></img></h1>
 
 - 👋 Hi, I'm Adrian Ahmad Al Zidan
 - 👦 18 years old Network & Tech Enthusiast from Banten, Indonesia
@@ -31,14 +31,8 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 <a href="https://www.javascript.com/">
     <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 </a>
-<a href="https://www.debian.org/index.id.html">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img>
-</a>
-<a href="https://www.linux.org/">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
-</a>
-<a href="https://www.microsoft.com/">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+<a href="https://www.markdownguide.org/">
+    <img alt="MD" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></img>
 </a>
 <a href="https://git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
@@ -47,17 +41,42 @@ I'm always trying to grow and learn something new. I hope all the projects that 
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 </a>
 
+## OS Skill
+<a href="https://www.debian.org/index.id.html">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img>
+</a>
+<a href="https://www.debian.org/index.id.html">
+    <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+"></img>
+</a>
+<a href="https://www.debian.org/index.id.html">
+    <img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></img>
+</a>
+<a href="https://www.debian.org/index.id.html">
+    <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></img>
+</a>
+<a href="https://www.debian.org/index.id.html">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
+</a>
+<a href="https://www.linux.org/">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
+</a>
+<a href="https://www.microsoft.com/">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+</a>
+
 ## Experience 
 * Intern at PT. Jaya Konsultan Indonesia (Feb 2022 - Apr 2022)
     - At this company I learned to make a website with the help of the Mobirise application. In this company I have also learned about the basic configuration of Mikrotik Routers, such as Wifi Routers, Hotspots, and others.
 * Intern at PT. FCOM Inti Teknologi (Sep 2022 - Dec 2022)
-    - In this company I have a role as a junior IT support. There I was given jobs such as configuring Mikrotik Routers, helping solve problems that exist on clients, maintaining client systems, and many more.
+    - In this company I have a role as a intern IT support. There I was given jobs such as configuring Mikrotik Routers, helping solve problems that exist on clients, maintaining client systems, and many more.
 
 ## Popular Projects
 <a href="https://github.com/adrhmdlz/itnsa-lks-kotang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=transparent" />
 </a>
 
+<br>
 
 <a href="https://github.com/adrhmdlz/km-gpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=km-gpp&theme=transparent" />
