@@ -6,9 +6,9 @@
 <h1>Hello There! <img src="assets/wave.gif" width=30px></img></h1>
 
 - 👋 Hi, I'm Adrian Ahmad Al Zidan
-- 👦 18 years old Network & Tech Enthusiast from Banten, Indonesia
-- 💼 Currently focusing on Network Engineering
-- 💬 Feel free to talk and discuss with me about Programming or Networking
+- 👦 18 years old Tech Enthusiast from Banten, Indonesia
+- 💼 Currently focusing on Web Developing
+- 💬 Feel free to talk and discuss with me about Programming
 - 😉 If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1mXc6aNbjOajxJ2bktw6UhCASmJ-iObHo/view?usp=sharing">here</a>.
 - 😎 And also don't forget to check my website <a href="https://adrhmdlz.github.io">here</a>.
 
@@ -64,13 +64,13 @@ I'm always trying to grow and learn something new. I hope all the projects that 
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
 </a>
 
-## Experience 
+<!-- ## Experience 
 * Intern at PT. Jaya Konsultan Indonesia (Feb 2022 - Apr 2022)
     - At this company I learned to make a website with the help of the Mobirise application. In this company I have also learned about the basic configuration of Mikrotik Routers, such as Wifi Routers, Hotspots, and others.
 * Intern at PT. FCOM Inti Teknologi (Sep 2022 - Dec 2022)
-    - In this company I have a role as a intern IT support. There I was given jobs such as configuring Mikrotik Routers, helping solve problems that exist on clients, maintaining client systems, and many more.
+    - In this company I have a role as a intern IT support. There I was given jobs such as configuring Mikrotik Routers, helping solve problems that exist on clients, maintaining client systems, and many more. -->
 
-## Popular Projects
+<!-- ## Popular Projects
 <a href="https://github.com/adrhmdlz/itnsa-lks-kotang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=itnsa-lks-kotang&theme=transparent" />
 </a>
@@ -82,7 +82,7 @@ I'm always trying to grow and learn something new. I hope all the projects that 
 </a> 
 <a href="https://github.com/adrhmdlz/webdev-basic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=webdev-basic&theme=transparent" />
-</a> 
+</a>  -->
 
 ---
 
