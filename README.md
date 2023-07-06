@@ -9,7 +9,7 @@
 - 👦 18 years old Tech Enthusiast from Banten, Indonesia
 - 💼 Currently focusing on Web Developing
 - 💬 Feel free to talk and discuss with me about Programming
-- 😉 If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1hcBc0y55gUBNkXkVj4alnErTxzPetw0P/view?usp=sharing" target="_blank">here</a>.
+- 😉 If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1-eAASa7COnY4w47wsvWSBJCMEzcRlf2i/view?usp=sharing" target="_blank">here</a>.
 - 😎 And also don't forget to check my website <a href="https://adrhmdlz.github.io" target="_blank">here</a>.
 
 <!-- I'm Adrian Ahmad Al Zidan! I'm 18 years old Network & IT Enthusiast from Banten, Indonesia. Currently focusing on Networking Engineering, besides that I'm also working on several projects using the Python language. I also sometimes take the time to develop my own website which you can check <a href="https://adrhmdlz.github.io">here</a>.
