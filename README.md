@@ -6,7 +6,7 @@
 <h1>Hello There! <img src="assets/wave.gif" width=30px></img></h1>
 
 - 👋 Hi, I'm Adrian Ahmad Al Zidan
-- 👦 18 years old Tech Enthusiast from Banten, Indonesia
+- 👦 18 years old Tech Enthusiast from Jakarta, Indonesia
 - 💼 Currently focusing on Web Developing
 - 💬 Feel free to talk and discuss with me about Programming
 - 😉 If you are interested in me and want to get to know me better, please check my social media below or you can check my resume <a href="https://drive.google.com/file/d/1-eAASa7COnY4w47wsvWSBJCMEzcRlf2i/view?usp=sharing" target="_blank">here</a>.
