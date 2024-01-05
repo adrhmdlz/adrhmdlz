@@ -13,14 +13,27 @@
 
 ## Current Working
 
-<div>
+<div style="text-align: center;">
+    <a href="https://github.com/adrhmdlz/daily-dua" style="bottom: 5px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=daily-dua&theme=transparent" />
+    </a>
+    <a href="https://github.com/adrhmdlz/adrhmdlz.github.io">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=adrhmdlz.github.io&theme=transparent" />
+    </a>
+</div>
 
-[![Daily Dua](https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=daily-dua&theme=transparent)](https://github.com/adrhmdlz/daily-dua)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=adrhmdlz.github.io&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz.github.io)
+## Github Stats
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=adrhmdlz.github.io&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz.github.io)
+<div style="text-align: center;">
+    <a href="https://github.com/adrhmdlz/adrhmdlz">
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=adrhmdlz&theme=transparent" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrhmdlz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    </a>
+</div>
 
-## </div>
+---
 
 > Website [adrhmdlz.github.io](https://adrhmdlz.github.io) &nbsp;&middot;&nbsp;
 > Gmail [@adrianalzidan35](mailto:adrianalzidan35@gmail.com) &nbsp;&middot;&nbsp;
