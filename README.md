@@ -12,15 +12,15 @@
 
 ## Top Repository
 
-[![Daily dua](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=daily-dua&theme=transparent)](https://github.com/adrhmdlz/daily-dua)
-[![Portfolio](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=adrhmdlz.github.io&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz.github.io)
-[![Webdev](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=webdev-basic&theme=transparent)](https://github.com/adrhmdlz/webdev-basic)
-[![Dashboard](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=agent-dashboard&theme=transparent)](https://github.com/adrhmdlz/agent-dashboard)
+|  [![Daily dua](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=daily-dua&theme=transparent)](https://github.com/adrhmdlz/daily-dua)   | [![Portfolio](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=adrhmdlz.github.io&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz.github.io) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Webdev](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=webdev-basic&theme=transparent)](https://github.com/adrhmdlz/webdev-basic) |    [![Dashboard](https://github-readme-stats-adhmdlzdn.vercel.app/api/pin/?username=adrhmdlz&repo=agent-dashboard&theme=transparent)](https://github.com/adrhmdlz/agent-dashboard)    |
 
 ## Github Stats
 
-[![Stats](https://github-readme-stats-adhmdlzdn.vercel.app/api?username=adrhmdlz&show_icons=true&hide_rank=true&hide_title=true&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz)
-[![Lang](https://github-readme-stats-adhmdlzdn.vercel.app/api/top-langs?username=adrhmdlz&layout=compact&langs_count=8&hide_progress=true&card_width=320&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz)
+|                                                                                                                                                                                           |                                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Stats](https://github-readme-stats-adhmdlzdn.vercel.app/api?username=adrhmdlz&show_icons=true&hide_rank=true&hide_title=true&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz) | [![Lang](https://github-readme-stats-adhmdlzdn.vercel.app/api/top-langs?username=adrhmdlz&layout=compact&langs_count=8&hide_progress=true&card_width=320&theme=transparent)](https://github.com/adrhmdlz/adrhmdlz) |
 
 ---
 
