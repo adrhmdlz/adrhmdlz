@@ -13,25 +13,25 @@
 
 ## Current Working
 
-<div style="text-align: center;">
+<p align="center">
     <a href="https://github.com/adrhmdlz/daily-dua" style="bottom: 5px;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=daily-dua&theme=transparent" />
     </a>
     <a href="https://github.com/adrhmdlz/adrhmdlz.github.io">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrhmdlz&repo=adrhmdlz.github.io&theme=transparent" />
     </a>
-</div>
+</p>
 
 ## Github Stats
 
-<div style="text-align: center;">
+<p align="center">
     <a href="https://github.com/adrhmdlz/adrhmdlz">
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=adrhmdlz&theme=transparent" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrhmdlz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
     </a>
-</div>
+</p>
 
 ---
 
