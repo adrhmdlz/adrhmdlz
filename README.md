@@ -1,4 +1,5 @@
-[![Profile](https://img.shields.io/github/last-commit/adrhmdlz/daily-dua?label=Profile%20Updated) ![Build](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/adrhmdlz/daily-dua)
+[![Profile](https://img.shields.io/github/last-commit/adrhmdlz/daily-dua?label=Profile%20Updated)](https://github.com/adrhmdlz/)
+[![Build](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/adrhmdlz/)
 
 # Hello There! <img src="./assets/wave.gif" width="30px">
 
