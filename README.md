@@ -1,10 +1,4 @@
-<a href="https://github.com/adrhmdlz/daily-dua" target="_blank">
-    <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adrhmdlz/daily-dua?label=Profile%20Updated"></img>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=adrhmdlz.adrhmdlz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></img>
-</a>
-
-<br>
+[![Profile](https://img.shields.io/github/last-commit/adrhmdlz/daily-dua?label=Profile%20Updated) ![Build](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/adrhmdlz/daily-dua)
 
 # Hello There! <img src="./assets/wave.gif" width="30px">
 
